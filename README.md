@@ -4,7 +4,7 @@ This repository contains all in-house command-line tools served in the MCCS prot
 
 ## Submodules
 
-|Tool|Purpose|Build Status|Release Status|
+|GitHub Repo|Purpose|Build Status|Release Status|
 |-|-|-|-|
 |[gpcrn](https://github.com/stcmz/gpcrn)|multi-scheme offline GPCR numbering database query|![build workflow](https://github.com/stcmz/gpcrn/actions/workflows/build.yml/badge.svg)|![release workflow](https://github.com/stcmz/gpcrn/actions/workflows/release.yml/badge.svg)|
 |[mccsx](https://github.com/stcmz/mccsx)|search and analysis of residue energy contribution vectors|![build workflow](https://github.com/stcmz/mccsx/actions/workflows/build.yml/badge.svg)|![release workflow](https://github.com/stcmz/mccsx/actions/workflows/release.yml/badge.svg)|
@@ -19,11 +19,18 @@ This repository contains all in-house command-line tools served in the MCCS prot
 
 ### MCCS Examples
 
-|Repo|Purpose|Paper|
+|GitHub Repo|Purpose|Paper|
 |-|-|-|
-|[mccs-bib-examples](https://github.com/stcmz/mccs-bib-examples)|verification of MCCS protocol using determined X-Ray crystallography or cryoEM structures of GPCRdb proteins|[DOI](https://doi.org/10.1021/acschemneuro.0c00372)<br/>[PubMed](https://pubmed.ncbi.nlm.nih.gov/33856784/)|
+|[mccs-bib-examples](https://github.com/stcmz/mccs-bib-examples)|verification of MCCS protocol using determined X-Ray crystallography or cryoEM structures of GPCRdb proteins|[DOI](https://doi.org/10.1093/bib/bbaa260)<br/>[PubMed](https://pubmed.ncbi.nlm.nih.gov/33078827/)|
 |[mccs-jcim-protease](https://github.com/stcmz/mccs-jcim-protease)|characterizing the binding features of inhibitors and modulators in SARS-CoV-2 main protease|Unpublished|
 |[mccs-nprot-examples](https://github.com/stcmz/mccs-nprot-examples)|virtual screening against the determined SARS-CoV-2 3CL<sup>pro</sup> structure using approved drugs on DrugBank|Unpublished|
+
+### MCCS Packages
+
+|GitHub Repo|Purpose|Registry|
+|-|-|-|
+|[mccs-docker](https://github.com/stcmz/mccs-docker)|scripts to create an MCCS docker image with all first-party and third-party software used in the MCCS protocol|[DockerHub](https://hub.docker.com/r/stcmz/mccs)
+
 
 ## Author
 
