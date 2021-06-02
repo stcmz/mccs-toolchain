@@ -21,7 +21,7 @@ This repository contains all in-house command-line tools served in the MCCS prot
 
 |GitHub Repo|Purpose|Paper|
 |-|-|-|
-|[mccs-bib-examples](https://github.com/stcmz/mccs-bib-examples)|verification of MCCS protocol using determined X-Ray crystallography or cryoEM structures of GPCRdb proteins|[DOI](https://doi.org/10.1093/bib/bbaa260)<br/>[PubMed](https://pubmed.ncbi.nlm.nih.gov/33078827/)|
+|[mccs-bib-examples](https://github.com/stcmz/mccs-bib-examples)|verification of MCCS protocol using determined X-Ray crystallography or cryoEM structures of GPCRdb proteins|[DOI](https://doi.org/10.1093/bib/bbaa239)<br/>[PubMed](https://pubmed.ncbi.nlm.nih.gov/33051641/)|
 |[mccs-jcim-protease](https://github.com/stcmz/mccs-jcim-protease)|characterizing the binding features of inhibitors and modulators in SARS-CoV-2 main protease|Unpublished|
 |[mccs-nprot-examples](https://github.com/stcmz/mccs-nprot-examples)|virtual screening against the determined SARS-CoV-2 3CL<sup>pro</sup> structure using approved drugs on DrugBank|Unpublished|
 
