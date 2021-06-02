@@ -1,0 +1,28 @@
+[submodule "jdock"]
+	path = jdock
+	url = git@github.com:stcmz/jdock
+	branch = v2.x
+[submodule "gpcrn"]
+	path = gpcrn
+	url = git@github.com:stcmz/gpcrn
+	branch = main
+[submodule "pdbm"]
+	path = pdbm
+	url = git@github.com:stcmz/pdbm
+	branch = main
+[submodule "pdbrn"]
+	path = pdbrn
+	url = git@github.com:stcmz/pdbrn
+	branch = main
+[submodule "pdbqtf"]
+	path = pdbqtf
+	url = git@github.com:stcmz/pdbqtf
+	branch = main
+[submodule "pdbget"]
+	path = pdbget
+	url = git@github.com:stcmz/pdbget
+	branch = main
+[submodule "mccsx"]
+	path = mccsx
+	url = git@github.com:stcmz/mccsx
+	branch = main
