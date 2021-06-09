@@ -26,3 +26,7 @@
 	path = mccsx
 	url = git@github.com:stcmz/mccsx
 	branch = main
+[submodule "mccs-docker"]
+	path = mccs-docker
+	url = git@github.com:stcmz/mccs-docker
+	branch = main

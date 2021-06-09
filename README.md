@@ -13,6 +13,7 @@ This repository contains all in-house command-line tools served in the MCCS prot
 |[pdbqtf](https://github.com/stcmz/pdbqtf)|fixing problematic chemical elements in PDBQT files|![build workflow](https://github.com/stcmz/pdbqtf/actions/workflows/build.yml/badge.svg)|![release workflow](https://github.com/stcmz/pdbqtf/actions/workflows/release.yml/badge.svg)|
 |[jdock](https://github.com/stcmz/jdock)|fast molecular docking, structure scoring and residue energy contribution vectors computation|![build workflow](https://github.com/stcmz/jdock/actions/workflows/build.yml/badge.svg)|![release workflow](https://github.com/stcmz/jdock/actions/workflows/release.yml/badge.svg)|
 |[pdbrn](https://github.com/stcmz/pdbrn)|renumbering protein sequence in PDB/PDBQT molecular models|![build workflow](https://github.com/stcmz/pdbrn/actions/workflows/build.yml/badge.svg)|![release workflow](https://github.com/stcmz/pdbrn/actions/workflows/release.yml/badge.svg)|
+|[mccs-docker](https://github.com/stcmz/mccs-docker)|scripts to create an MCCS docker image with all first-party and third-party software used in the MCCS protocol|![build workflow](https://github.com/stcmz/mccs-docker/actions/workflows/build.yml/badge.svg)|![release workflow](https://github.com/stcmz/mccs-docker/actions/workflows/release.yml/badge.svg)|
 
 
 ## Related Repositories
@@ -29,7 +30,7 @@ This repository contains all in-house command-line tools served in the MCCS prot
 
 |GitHub Repo|Purpose|Registry|
 |-|-|-|
-|[mccs-docker](https://github.com/stcmz/mccs-docker)|scripts to create an MCCS docker image with all first-party and third-party software used in the MCCS protocol|[DockerHub](https://hub.docker.com/r/stcmz/mccs)
+|[mccs-docker](https://github.com/stcmz/mccs-docker)|scripts to create an MCCS docker image with all first-party and third-party software used in the MCCS protocol|[Docker Hub](https://hub.docker.com/r/stcmz/mccs)<br/>[GitHub Container Registry](https://ghcr.io/stcmz/mccs)
 
 
 ## Author
